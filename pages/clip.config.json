@@ -1,0 +1,24 @@
+{
+    "expo": {
+      "name": "yolo85 Clip",
+      "orientation": "portrait",
+      "icon": "../assets/icon.png",
+      "assetBundlePatterns": [
+        "**/*"
+      ],
+      "ios": {
+        "supportsTablet": true,
+        "bundleIdentifier": "com.bacon.yolo85"
+      },
+      "android": {
+        "adaptiveIcon": {
+          "foregroundImage": "../assets/adaptive-icon.png",
+          "backgroundColor": "#FFFFFF"
+        }
+      },
+      "web": {
+        "favicon": "../assets/favicon.png"
+      }
+    }
+  }
+  
